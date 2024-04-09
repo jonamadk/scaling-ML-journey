@@ -38,7 +38,7 @@ The repository includes.
 > - Rebuild the model with optimal hyper-parameters
 
 
-1. **Lab-07**: project:CIFAR-10 Classification using `Convolutional Neural Network Models`
+7. **Lab-07**: project:CIFAR-10 Classification using `Convolutional Neural Network Models`
 
 > - Data pre-processing [Reshaping, encoding]
 > - Build multiple `CNN` models with various `activation` function and `optimizers`
